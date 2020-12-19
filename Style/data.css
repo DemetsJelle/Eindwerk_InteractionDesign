@@ -804,11 +804,6 @@ hr {
 
 .c-arrow:hover, .down:hover{
   border-width: 0 5px 5px 0;
-  animation-name: bounce-arrow;
-  animation-timing-function: ease;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  transform-origin: bottom;
 }
 
 .c-arrow:focus{
@@ -1387,8 +1382,8 @@ hr {
   }
   
   .c-overlay-image{
-    height: 350px; /*250px*/
-    width: 225px; /*150px*/
+    height: 250px; /*250px*/
+    width: 14rem; /*150px*/
   }
 
   .c-main-info{
